@@ -10,8 +10,8 @@
 #import <EOSIOS/EOSIOS.h>
 #import <EOSIOS/EOSAction.h>
 
-#define DEFAULT_WALLET_NAME @"default"
-#define DEFAULT_WALLET_PRIVATE_KEY @"PW5KBLtvqR1DxWmLBHVnmHmHQKVNGiKLjy5Pbt1oAkiQn8Xkc4bgq"
+#define DEFAULT_WALLET_NAME @"WALLET_NAME"
+#define DEFAULT_WALLET_PRIVATE_KEY @"YOUR_PRIVATE_KEY"
 
 @interface ViewController ()
 {
