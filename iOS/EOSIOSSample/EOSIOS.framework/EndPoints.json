@@ -1,0 +1,13 @@
+{
+    "abi_json_to_bin"                       : "v1/chain/abi_json_to_bin",
+    "get_info"                              : "v1/chain/get_info",
+    "get_public_keys"                       : "v1/wallet/get_public_keys",
+    "get_block"                             : "v1/chain/get_block",
+    "get_required_keys"                     : "v1/chain/get_required_keys",
+    "unlock_wallet"                         : "v1/wallet/unlock",
+    "sign_transaction"                      : "v1/wallet/sign_transaction",
+    "push_transaction"                      : "v1/chain/push_transaction",
+    "get_account"                           : "v1/chain/get_account",
+    "get_currency_balance"                  : "v1/chain/get_currency_balance",
+    "get_table_rows"                        : "v1/chain/get_table_rows"
+}
